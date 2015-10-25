@@ -1,0 +1,23 @@
+name: ZABAVA
+favicon: null
+layout_spectrum: 0.9759884485974908
+typography_spectrum: 0.19451589812524617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3942069197073579
+  lightness: 0.6608450359199196
+  saturation: 0.355677968589589
+  rhythmicContrast: 0.8303166411351413
+purpose: []
